@@ -7,7 +7,7 @@ A palestra tem como intuito explicar os conceitos sobre Azure Functions e como p
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-15130-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
-* **[TypeScript DOWNLOAD - AQUI](https://www.typescriptlang.org/)**
+* **[TypeScript](https://www.typescriptlang.org/)**
 * **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-15130-gllemos)**
 
 ## Links & Recursos Importantes ⭐️
