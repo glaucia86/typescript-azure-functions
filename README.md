@@ -1,7 +1,7 @@
 # Demos Palestra: Aprimore suas Aplicações com TypeScript e Azure Functions
 
 Repositório responsável pelas demos relacionadas a palestra sobre: **Aprimore suas Aplicações com TypeScript e Azure Functions**.
-A palestra tem como intuito explicar os conceitos sobre Azure Functions e como podemos integrar com o TypeScript.
+A palestra tem como intuito explicar os conceitos sobre **[Azure Functions](https://azure.microsoft.com/services/functions/?WT.mc_id=javascript-15130-gllemos)** e como podemos integrar com o TypeScript.
 
 ## Recursos Utilizados 🚀
 
